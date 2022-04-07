@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: pink;
+    }
+    h1{
+        font-size: 40px;
+        font-family: cursive;
+    }
+    #apps{
+        background-color: rgb(197, 46, 71);
+    }
+    #games{
+        background-color: pink;
+    }
+    
+    .line{
+        height: 6px;
+        background-color: pink;
+        margin: 8px auto; 
+        width: 70px;
+    }
